@@ -12,7 +12,7 @@ Evidence supports how widespread this gap in financial understanding is. A 2020 
 ## Solution
 The Opportunity Cost Engine offers a **streamlined workflow** that helps users visualize the trade-offs between consumption and investment:
 
-- **Product Selection:** Users choose a product from a predefined list.  
+- **Product Selection:** Users choose a product from a predefined list or enter a custom item with its price.  
 - **Stock Mapping:** The system identifies the parent company and relevant stock ticker.  
 - **Modeling:** Historical stock performance and product depreciation are applied to simulate outcomes.  
 - **Comparison:** The program forecasts the potential returns of investing the money in the stock versus buying the product.  
